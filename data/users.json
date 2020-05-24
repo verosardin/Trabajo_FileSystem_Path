@@ -1,0 +1,100 @@
+[
+ {
+  "nombre": "Luna",
+  "apellido": "Marchetta",
+  "email": "lunitam@gmail.com",
+  "password": "qweqwe",
+  "avatar": "Luna Marchetta - 11-3-2020 13_18_20.jpg"
+ },
+ {
+  "nombre": "Bruno",
+  "apellido": "Marchetta",
+  "email": "brunito@gmail.com",
+  "password": "qweqwe",
+  "avatar": "Bruno Marchetta - 11-3-2020 13_18_48.jpg"
+ },
+ {
+  "nombre": "nuevo",
+  "apellido": "usuario",
+  "email": "nuevoOK@hotmail.com",
+  "password": "123456",
+  "avatar": "nuevo usuario - 21-4-2020 22_20_49.jpg"
+ },
+ {
+  "nombre": "Verónica",
+  "apellido": "Sardin",
+  "email": "vero.sardin28@gmail.com",
+  "password": "123",
+  "avatar": "Verónica Sardin - 23-4-2020 11_50_5.jpg"
+ },
+ {
+  "nombre": "Sandra",
+  "apellido": "Galí",
+  "email": "sandra@gmail.com",
+  "password": "123",
+  "avatar": "Sandra Galí - 23-4-2020 12_28_17.jpg"
+ },
+ {
+  "name": "Verónica",
+  "surname": "Sardin",
+  "email": "vero.sardin28@gmail.com",
+  "password": "$2b$10$KrMcK8PfBG2mh60K3CAf4.1uuIoZhmloe4Vo2i8WlLOZ.VtlEhxbC",
+  "avatar": "undefined undefined - 23-4-2020 12_57_14.jpg"
+ },
+ {
+  "name": "Vero",
+  "surname": "Sardin",
+  "email": "verito4_28@hotmail.com",
+  "password": "$2b$10$rYrtBB/pliMl/ZmgSxQDv.wkcPtJdCLR/hxfGnSgyEPmoAPuc0OUe",
+  "avatar": "undefined undefined - 23-4-2020 12_58_41.jpg"
+ },
+ {
+  "name": "",
+  "surname": "",
+  "email": "verito4_28@hotmail.com",
+  "password": "$2b$10$Jljqm7TaLXcHrWMpUbfYh.3fM46lP9NCb6JR0MxL9YMMU9t5IZ/xy",
+  "avatar": "undefined undefined - 23-4-2020 13_1_26.jpg"
+ },
+ {
+  "name": "jorge",
+  "surname": "fontana",
+  "email": "jorge@gmail.com",
+  "password": "$2b$10$VXOVuqun8nFJv/hJUWconOcMsWSn5btywbwR/zR4/fu6MOPSWBotm",
+  "avatar": "undefined undefined - 23-4-2020 13_17_56.jpg"
+ },
+ {
+  "name": "Verónica",
+  "surname": "Sardin",
+  "email": "vero.sardin28@gmail.com",
+  "password": "$2b$10$mNUgaEVKJrn3vqIA1ZTHXe2XSrBWJM8.KNLceBIT0X5XA45U8BbRW",
+  "avatar": "undefined undefined - 23-4-2020 13_28_35.jpg"
+ },
+ {
+  "name": "Vero",
+  "surname": "Sardin",
+  "email": "vero.sardin28@gmail.com",
+  "password": "$2b$10$g38khpcsISUPHH9vz0.7eO3x1SknxnUrnJncZQBeI1yqkIOhpN7uK",
+  "avatar": "undefined undefined - 23-4-2020 13_35_22.jpg"
+ },
+ {
+  "name": "Pablo",
+  "surname": "Sardin",
+  "email": "pablo@gmail.com",
+  "password": "$2b$10$zMvUsDVTTNEtvH012xDD0u2.Jv1rKYv.yWLdZKNPLxhjxxcdSmlIq",
+  "avatar": "undefined undefined - 23-4-2020 13_47_56.png"
+ },
+ {
+  "name": "Daniel",
+  "surname": "Hidalgo",
+  "email": "dani@gmail.com",
+  "password": "$2b$10$/XI3zhlbsmS0t3Kx0otuvOBOKs/DOc.pIwL7YhQFMROvQabbOlU62",
+  "avatar": "undefined undefined - 23-4-2020 14_24_14.png"
+ },
+ {
+  "name": "Verónica",
+  "surname": "Sardin",
+  "email": "verito4_28@hotmail.com",
+  "password": "$2b$10$iNac0P6Fe6xgFbyWKqrdN.YHP7WJdr4EdCK.9.IEpmipAZUwMWpn6",
+  "avatar": "undefined undefined - 23-4-2020 21_6_53.jpg"
+ }
+]
